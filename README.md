@@ -1,13 +1,13 @@
-# Project Name
+# portfoleo project
 
-> Description the project.
+> this is the portfoleo project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo (if available)
 
@@ -38,17 +38,24 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Muluken**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@MuAssefa](https://github.com/MuAssefa)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Meron**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@MeronDG](https://github.com/MeronDG)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **yayner**
+
+- GitHub: [@yayner2002](https://github.com/yayner2002)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
